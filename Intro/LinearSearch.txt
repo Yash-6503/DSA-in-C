@@ -1,0 +1,13 @@
+Linear Search Algorithm
+-This Algorithm is also known as sequential search Algorithm
+-Here are basically 2 cases they are as follows
+    * Element is Present        ->      print its location
+    * Element is not Present
+
+*Working of Linera Search Algorithm
+-Here the searching will start from the starting of arrray index a[0].
+-Also we will be accessing each element of the index so that the require element should match
+-Here there will be 2 stopping conditions they are: 
+    * After getting the required element
+    * Not getting the element after searching in all indexes
+
