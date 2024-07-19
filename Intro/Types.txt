@@ -1,0 +1,13 @@
+There are Two Types of Data Structures and Algorithms
+1.Linear
+2.Non-Linear
+
+1.Linear contains
+-Arrays
+-Linked List
+-Stack
+-Queue
+
+2.Non-Linear contains
+-Tree
+-Graph
