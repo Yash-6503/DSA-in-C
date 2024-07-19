@@ -1,0 +1,7 @@
+Important Topics should be Done before Learning DSA in C
+
+1.Functions + Recursive Functions
+2.Arrays
+3.Structures
+4.Pointers
+5.Dynamic Memory Allocation [DMA]
