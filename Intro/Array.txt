@@ -1,0 +1,7 @@
+Arrays in DSA
+-It holds more than one Element
+-It holds homogenious [same] type of Elements 
+-It is Indexed based
+-It is also called Derived Datatype
+-It doesn't follow any algorithm
+
