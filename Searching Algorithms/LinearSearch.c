@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main()
 {
-<<<<<<< HEAD
-    
-=======
     int key, n, a[10];
     int i, found = 0;
     printf("\nEnter how many elements: ");
